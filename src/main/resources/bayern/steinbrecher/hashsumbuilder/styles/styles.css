@@ -1,0 +1,35 @@
+/* 
+    Author     : Stefan Huber
+*/
+
+.root{
+    -fx-font-size: 14;
+    -fx-focus-color: purple;
+}
+
+.text-input{
+    -fx-highlight-fill: purple;
+    -fx-highlight-text-fill: white;
+}
+
+.grid-pane{
+    -fx-hgap: 5;
+    -fx-vgap: 5;
+    -fx-padding: 10;
+}
+
+.message{
+    -fx-font-weight: bold;
+}
+
+.unknown, .calculating{
+    -fx-text-fill: blue;
+}
+
+.successful{
+    -fx-text-fill: #25cf00;
+}
+
+.fail{
+    -fx-text-fill: red;
+}
