@@ -1,5 +1,7 @@
 # HashsumBuilder
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/trackersb/hashsumbuilder?style=flat-square)
+
 Straight forward and lightweight graphical tool for verifying the hash sum of a given file.
 - Fast
 - Easy
